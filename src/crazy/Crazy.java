@@ -17,7 +17,7 @@ public class Crazy {
      */
     public static void main(String[] args) {
         while (true) {
-            JOptionPane.showMessageDialog(null, "Crazy? I was Crazy once. They looked me in a room, a rubber room, a rubber room with rats, and rats make me crazy", null,0);
+            JOptionPane.showMessageDialog(null, "Crazy? I was Crazy once. They looked me in a room, a rubber room, a rubber room with rats, and rats make me crazy", null,-1);
         }
         
     }
